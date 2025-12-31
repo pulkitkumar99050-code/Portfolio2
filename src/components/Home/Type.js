@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Space lover",
           "Stargazer",
-          "A Simple Loving Creature",
+          "A Simple Creature",
           "Finding my मंज़िल ",
         ],
         autoStart: true,
